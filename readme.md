@@ -7,4 +7,4 @@ An NLP-based web application built with Python, Scikit-Learn, and Streamlit to c
 - **Vectorization:** TF-IDF with N-grams (1,3) and Devanagari-specific tokenization.
 - **UI:** Real-time prediction with category confidence charts.
 
-Dataset used - https://github.com/kamalacharya2044/nepalinewsdataset
+Dataset source - https://github.com/kamalacharya2044/nepalinewsdataset
