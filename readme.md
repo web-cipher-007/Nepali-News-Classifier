@@ -1,6 +1,6 @@
 # 🇳🇵 Nepali News Classifier
 
-An NLP-based web application built with Python, Scikit-Learn, and Streamlit to classify Nepali news into 10 categories.
+A simple application built with Python, Scikit-Learn, and Streamlit to classify Nepali news into 10 categories.
 
 ## Features
 - **Algorithm:** K-Nearest Neighbors (KNN) with $K=15$
